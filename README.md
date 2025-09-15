@@ -14,28 +14,5 @@
 11) Revisar documentación [Doc Movies](https://developer.themoviedb.org/reference/intro/getting-started)
 12) Hacer la primer llamada a la API 
 13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-12) Hacer la primer llamada a la API 
-13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
-
 
 
