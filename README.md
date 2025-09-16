@@ -15,4 +15,5 @@
 12) Hacer la primer llamada a la API 
 13) Crear estados globales en **App.jsx** para guardar las peliculas ( Debe importar useState y useEffect )
 14) Si el proyecto arranca subirlo a [Netlify](https://netlify.com)
-
+15) Endpoint a usar [https://developer.themoviedb.org/reference/genre-movie-list](https://developer.themoviedb.org/reference/movie-popular-list)
+16) Imagenes desde https://developer.themoviedb.org/docs/image-basics
